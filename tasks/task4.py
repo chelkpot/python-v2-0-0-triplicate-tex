@@ -5,7 +5,7 @@ def solve():
     a=input()
     b=input()
     c=input()
-    print(a,b,c, sep="---")
+    print(a + '---' + b + '---' + c)
     
 
 # Код ниже не трогать! он нужен для тестов
