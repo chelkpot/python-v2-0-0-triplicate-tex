@@ -2,6 +2,8 @@
 
 def solve():
 # Ниже пишите решение задачи
+    spell=input()
+    print(spell," - Сказала Гермиона!", sep="")
 
 
    
