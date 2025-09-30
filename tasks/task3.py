@@ -2,7 +2,7 @@
 
 def solve():
 # Ниже пишите решение задачи
-    a,b=map(int,input("Введите два числа: ").split())
+    a,b=map(int,input().split())
     l = a - 1
     g = b - 1    
     print(g,l)
